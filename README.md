@@ -1,1 +1,2 @@
-# CodeGirls
+# CodeGirls - desafio de git/github
+
